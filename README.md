@@ -1,1 +1,2 @@
 # Android_Final
+The final exam problem for the Android Development class. Used some form of database (in this case, Room and DAOs) to store "Avenger" objects in a table. All data in the database could then be viewed in a recycler view. Asyncronous tasks were used to store and fetch the data smoothly. The objects could also be accessed from a remote file online (downloaded from a text file and converted into objects). Objects could also be created and removed manually.
